@@ -1,3 +1,3 @@
 # PV_lab_PdS
 
-The two notebooks "plot_plqy" and "plot_uv" are to treat and plot the data from their respective folders: PV_lab_PdS/PLQY and PV_lab_PdS/UV_VIS. 
+The data vizualisation is divided in four notebook, one for each type of measure, namely PLQY, UV-Vis, JV curves and EQE.
